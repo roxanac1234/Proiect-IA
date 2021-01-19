@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\IA_Project\IA_Project\obj\Debug\IA_Project.csprojAssemblyReference.cache
+C:\Users\User\source\repos\IA_Project\IA_Project\obj\Debug\IA_Project.Properties.Resources.resources
+C:\Users\User\source\repos\IA_Project\IA_Project\obj\Debug\IA_Project.csproj.GenerateResource.cache
+C:\Users\User\source\repos\IA_Project\IA_Project\obj\Debug\IA_Project.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\IA_Project\IA_Project\bin\Debug\IA_Project.exe.config
+C:\Users\User\source\repos\IA_Project\IA_Project\bin\Debug\IA_Project.exe
+C:\Users\User\source\repos\IA_Project\IA_Project\bin\Debug\IA_Project.pdb
+C:\Users\User\source\repos\IA_Project\IA_Project\obj\Debug\IA_Project.exe
+C:\Users\User\source\repos\IA_Project\IA_Project\obj\Debug\IA_Project.pdb
+C:\Users\User\source\repos\IA_Project\IA_Project\obj\Debug\IA_Project.GameForm.resources
